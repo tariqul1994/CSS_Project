@@ -12,3 +12,16 @@ div{
   background-color: aqua;
   margin-bottom: 20px;
 }
+div p{
+  color: black;
+}
+.text-bk{
+  color: red;
+  text-align: right;
+}
+.first-div{
+  background-color: blue;
+}
+.first-div p{
+  color: white;
+}
