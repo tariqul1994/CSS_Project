@@ -20,8 +20,20 @@ div p{
   text-align: right;
 }
 .first-div{
-  background-color: blue;
+  background-color: rgb(134, 250, 62);
+  align-content: center;
+  margin-left: 50%;
+  margin-right: 50%;
+  text-shadow: 2px 2px 5px gray;
+  border-radius: 25px 60px;
+  padding: 10px;
 }
 .first-div p{
   color: white;
+}
+.first_head{
+  color: red;
+  background-color: yellow;
+  text-align: center;
+  text-decoration: underline;
 }
